@@ -1,0 +1,27 @@
+{
+  "name": "ResourceSynchronizerServer",
+  "version": "0.1.0",
+  "description": "ResourceSynchronizer Server for cocos2d-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livingyang/ResourceSynchronizerServer.git"
+  },
+  "keywords": [
+    "resource",
+    "synchronizer",
+    "cocos2d-js"
+  ],
+  "author": "livingyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livingyang/ResourceSynchronizerServer/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "node-static": "~0.7.3"
+  }
+}
