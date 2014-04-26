@@ -3,6 +3,7 @@ ResourceSynchronizerServer
 
 ResourceSynchronizer Server for cocos2d-js
 
+* file
 Usage
 =====
 	// 1 instal node modules
@@ -11,4 +12,4 @@ Usage
 	// 2 start server
 	node index.js
 
-	// 3 add/remove/update some resource to see how server work
+	// 3 add/remove/update files at ./public/resource/ to see how server work
